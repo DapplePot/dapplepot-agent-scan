@@ -1,0 +1,13 @@
+{
+  "name": "dapplepot-agent-scan",
+  "owner": {
+    "name": "DapplePot"
+  },
+  "plugins": [
+    {
+      "name": "dp-scan",
+      "description": "OWASP security audit for AI agent codebases. Covers OWASP LLM Top 10 (2025) and OWASP Agentic Security Initiative Top 10 (2026). Supports LangChain, LangGraph, OpenAI SDK, Anthropic SDK, Google ADK, and CrewAI.",
+      "source": "."
+    }
+  ]
+}

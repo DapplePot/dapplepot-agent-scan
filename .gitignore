@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.orig
+*.bak
+
+# Python (examples)
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Node (if tooling is added)
+node_modules/
+npm-debug.log*
+
+# Generated scan reports (output of dp-scan, not source)
+dp-scan-report.html
+dp-scan-report.json
